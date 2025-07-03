@@ -200,13 +200,15 @@ export default function ContactPage() {
                     className="bg-blue-600 hover:bg-blue-700 dark:bg-yellow-600 dark:hover:bg-yellow-700 text-white dark:text-black"
                   >
                     <a
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSc4hkNeJzYmISuC5ppSeQIDf4CqkF4oJLNtsm23adUxIB9TqA/viewform?usp=dialog"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSc4hkNeJzYmlSuC5ppSeQlDf4Cqkf4ojLNtsm23adUxIB9TqA/viewform?usp=dialog"
+
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       Take Survey
                     </a>
                   </Button>
+
                 </motion.div>
               </motion.div>
             </div>
